@@ -3,6 +3,7 @@
 # Data science fellowship 06/03/19 
 
 Test for change 
+change using vim 
 
 ### Data science calendar
 
