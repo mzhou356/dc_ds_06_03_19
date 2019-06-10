@@ -1,7 +1,5 @@
 ### 1. Create a dictionary where each object contains a list of one float (Age) and one string (Family name) (at least 5 objects)
 
-Example:
-`{Charles: [23.4, "Darwin"], Alan: [42.5, "Turing"]}`
 
 
 ### 2. Delete one object from the dictionary
